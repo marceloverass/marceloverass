@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Marcelo Veras</i></a> 😃️</h1>
-    <p align="center">Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Projeção e estudo Desenvolvimento Web por conta própria.<span> 👉🏽️</span>
+    <p align="center">Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Projeção e estudo Desenvolvimento Web por conta própria.
     
   
   
