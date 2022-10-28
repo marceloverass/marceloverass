@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi! I am <a href="https://www.linkedin.com/in/marcelo-veras-524308187/"><i>Marcelo Veras</i></a> 😃️</h1>
+  <h1 align="center">Hi! I am <a href="https://www.linkedin.com/in/marcelo-veras-524308187/"><i>Marcelo Veras</i></a> :)</h1>
   <p align="center.
     
 </div>
@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
+<div align="center" valign="center"><br>
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
