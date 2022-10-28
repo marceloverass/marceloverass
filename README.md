@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcelo-veras-524308187/"><i>Marcelo Veras</i></a> 😃️</h1>
+  <h1 align="center">Hi! I am <a href="https://www.linkedin.com/in/marcelo-veras-524308187/"><i>Marcelo Veras</i></a> 😃️</h1>
   <p align="center.
     
 </div>
@@ -29,12 +29,3 @@
   <a href="mailto:marceloantonino.verass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
-</div>
