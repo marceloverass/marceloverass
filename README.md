@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi! I am <a href="https://www.linkedin.com/in/marceloveras"><i>Marcelo Veras</i></a> :)</h1>
+  <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/marceloveras"><i>Marcelo Veras</i></a> :)</h1>
   <p align="center.
     
 </div>
