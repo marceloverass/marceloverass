@@ -10,7 +10,7 @@
   * 🧠 I'm learning JavaScript and Java programming languages
   * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
   * ⚡ I love practice sports and my favorite is bodybuilding
-  * 🇬🇧 I like to learning English through movies, series and games
+  * 🇬🇧 I like to learning english through movies, series and games
   
 
 <h2>Skills</h2>
