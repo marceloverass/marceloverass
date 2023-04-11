@@ -25,9 +25,6 @@
 <h3>My GitHub Stats</h3>
 <a href="http://www.github.com/marceloverass"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=marceloverass&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
-
-<a href="http://www.github.com/marceloverass"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marceloverass&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/marceloverass" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=marceloverass&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h2>Contact me</h2>
