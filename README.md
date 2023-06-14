@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/marceloveras"><i>Marcelo Veras</i></a> :)</h1>
 <h2>Software Developer</h2>
 
-<p>I love to code and figure out how to solve problems of people close to me using my technology skills. Since I was a child, I've always liked technology and games. I had my first contact with programming in college, with the C language, after a while, I met JavaScript through the YouTube and I was amazed by the possibilities of the things I could create. Currently, I'm part of the software factory at Projeção University, where we will work with the most diverse technologies to deliver applications and websites, mainly with Angular and Java.</p>      
+<p>I love to code and figure out how to solve problems of people close to me using my technology skills. Since I was a child, I've always liked technology and games. I had my first contact with programming in college, with the C language, after a while, I met JavaScript through the YouTube and I was amazed by the possibilities of the things I could create. Currently, I'm part of the software factory at Projeção University, where we will work with the most diverse technologies to deliver applications and websites.</p>      
             
           
   * 🌍 I'm based in Brasília, Brazil</li>
