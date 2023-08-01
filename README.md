@@ -21,11 +21,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<h3>My GitHub Stats</h3>
-<a href="http://www.github.com/marceloverass"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=marceloverass&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Marcelo GitHub stats" /></a>
-
-<a href="https://github.com/marceloverass" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=marceloverass&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%50%Languages" alt="Top Languages" /></a>
-
 <h2>Contact me</h2>
 
 <a href="https://www.linkedin.com/in/marceloveras/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
