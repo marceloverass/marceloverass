@@ -9,8 +9,10 @@ about {
   languages: pt-br, en
 }
 
-linkedin: in/marceloveras/
-discord: m9rcelo#9752
+contacts {
+  linkedin: in/marceloveras/
+  discord: m9rcelo#9752
+}
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloverass&hide_progress=false)
