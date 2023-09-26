@@ -2,7 +2,6 @@
 about {
   name: marcelo veras,
   education: graduated in systems and analisys development,
-  age: 22 years,
   from: brazil,
   based: brasília-df,
   skills: flutter, python, java, javascript, php, sql, firebase
