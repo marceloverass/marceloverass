@@ -2,10 +2,10 @@
 {
   "about": {
     "name": "marcelo veras",
-    "education": "graduated in systems and analisys development",
+    "education": "studying computer science at ucb",
     "from": "brazil",
     "based": "brasília-df",
-    "skills": ["flutter", "python", "java", "javascript", "php", "sql", "firebase"],
+    "skills": ["sql, excel, python, tableau"],
     "languages": ["pt-br", "en"]
   },
   "contacts": {
@@ -16,4 +16,3 @@
 
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloverass&hide_progress=false)
